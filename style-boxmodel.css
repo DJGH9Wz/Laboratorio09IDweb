@@ -1,0 +1,22 @@
+
+body{
+    background-color: khaki;
+}
+
+.contenedor{
+    display: flex;
+    gap: 10px;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.tarjeta{
+    flex: 1;
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 6px;
+    border: 3px solid #fff;
+    margin:15px;
+}
